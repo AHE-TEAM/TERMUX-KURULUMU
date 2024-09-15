@@ -6,8 +6,8 @@ Termux, Android üzerinde güçlü bir Linux terminal ortamı sağlar.
 
 Termux artık Google Play Store'dan desteklenmiyor. Bunun yerine şu adresten yükleyebilirsiniz:
 
-- **Termux:** [F-Droid'den indirin](https://f-droid.org/packages/com.termux/)
-- **Termux API:** [F-Droid'den indirin](https://f-droid.org/en/packages/com.termux.api/)
+- **F-Droid'**[den indirin](https://f-droid.org/packages/com.termux/)
+- **Github'** [dan indirin](https://github.com/termux/termux-app/releases/)
 - **Diğer Termux Uygulamaları:** [F-Droid Arama](https://search.f-droid.org/?q=termux&lang=en)
 
 ## Temel Komutlar
